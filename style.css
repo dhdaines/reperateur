@@ -1,0 +1,27 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+.container {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+#header {
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5ex;
+    margin: 0;
+    background: #2d3e50;
+    color: #eee;
+}
+#map {
+    flex: 1;
+}
+.locate {
+    top: 6em;
+    left: .5em;
+}
