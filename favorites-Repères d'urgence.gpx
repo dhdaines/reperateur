@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="OsmAnd 4.4.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-Repères d'urgence</name>
-    <time>2023-11-13T19:49:20Z</time>
+    <time>2023-11-21T20:30:07Z</time>
   </metadata>
   <wpt lat="45.9500123" lon="-74.1533987">
     <time>2023-11-13T19:34:32Z</time>
@@ -214,6 +214,97 @@
     <type>Repères d'urgence</type>
     <extensions>
       <osmand:address>Proche Chemin du Golf, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9273115" lon="-74.2185032">
+    <time>2023-11-19T18:41:05Z</time>
+    <name>CA3</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0139301" lon="-74.1101651">
+    <ele>353</ele>
+    <time>2023-11-21T16:56:16Z</time>
+    <name>ML2</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Montée Manory, Sainte-Marguerite-du-Lac-Masson</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0149124" lon="-74.116207">
+    <time>2023-11-21T17:01:13Z</time>
+    <name>ML3</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Rue des Vers Luisants, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.009363" lon="-74.1206883">
+    <time>2023-11-21T17:17:03Z</time>
+    <name>ML4</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Rue des Vers Luisants, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.020229" lon="-74.1168092">
+    <time>2023-11-21T18:48:11Z</time>
+    <name>ML5</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Rue des Monarques, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9972975" lon="-74.0980809">
+    <ele>323.8</ele>
+    <time>2023-11-21T19:41:00Z</time>
+    <name>Q1</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Chemin de Deauville (Sainte-Marguerite-Station) 2246, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9980672" lon="-74.09839">
+    <ele>324.5</ele>
+    <time>2023-11-21T19:41:58Z</time>
+    <name>Q4</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin de Deauville (Sainte-Marguerite-Station), Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0014757" lon="-74.0978654">
+    <time>2023-11-21T19:45:59Z</time>
+    <name>Q14</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Impossible de déterminer l'adresse</osmand:address>
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
