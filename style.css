@@ -21,7 +21,11 @@ html, body {
 #map {
     flex: 1;
 }
-.locate {
+#contact {
+    top: 4em;
+    left: .5em;
+}
+#locate {
     top: 6em;
     left: .5em;
 }

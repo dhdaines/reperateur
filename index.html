@@ -9,7 +9,25 @@
   <body>
     <div class="container">
       <h1 id="header">Le Repérateur</h1>
-      <div id="map"></div>
+      <div id="map">
+        <div id="locate" class="ol-control ol-unselectable">
+          <button title="Géolocalisez-moi!">◎</button>
+        </div>
+        <div id="contact" class="ol-control ol-unselectable">
+          <button title="Signaler un répère manquant">⚐</button>
+        </div>
+      </div>
+      <dialog id="details">
+        <form>
+          <label>Identificateur (ex. A1, C19)
+            <input name="marker" type="text" id="marker">
+          </label>
+          <div>
+            <button formmethod="dialog">Annuler</button>
+            <button id="confirmButton">Valider</button>
+          </div>
+        </form>
+      </dialog>
     </div>
     <script type="module" src="./main.js"></script>
   </body>
