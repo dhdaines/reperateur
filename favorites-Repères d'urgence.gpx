@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="OsmAnd 4.4.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-Repères d'urgence</name>
-    <time>2023-12-04T23:40:27Z</time>
+    <time>2023-12-05T03:20:39Z</time>
   </metadata>
   <wpt lat="45.9497361" lon="-74.5193246">
     <ele>475.5</ele>
@@ -336,6 +336,65 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="45.9439349" lon="-74.2024581">
+    <time>2023-12-05T01:54:42Z</time>
+    <name>L5</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9443891" lon="-74.2030571">
+    <ele>436</ele>
+    <time>2023-12-05T01:57:23Z</time>
+    <name>L6</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9479089" lon="-74.2027065">
+    <ele>456</ele>
+    <time>2023-12-05T02:07:17Z</time>
+    <name>L8</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9462772" lon="-74.2045397">
+    <ele>457.8</ele>
+    <time>2023-12-05T02:02:04Z</time>
+    <name>L9</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9470692" lon="-74.2035028">
+    <ele>456</ele>
+    <time>2023-12-05T02:05:27Z</time>
+    <name>L10</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
   <wpt lat="45.9434361" lon="-74.207699">
     <ele>444</ele>
     <time>2023-11-27T19:30:26Z</time>
@@ -439,6 +498,53 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="45.9443345" lon="-74.1985607">
+    <ele>411.2</ele>
+    <time>2023-12-05T01:49:35Z</time>
+    <name>R1</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9446849" lon="-74.1985832">
+    <ele>411.2</ele>
+    <time>2023-12-05T01:47:22Z</time>
+    <name>R3</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9466371" lon="-74.1892096">
+    <ele>414.8</ele>
+    <time>2023-12-05T01:26:36Z</time>
+    <name>R11</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9502445" lon="-74.1980686">
+    <time>2023-12-05T02:16:16Z</time>
+    <name>R16</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Impossible de déterminer l'adresse</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
   <wpt lat="45.942099" lon="-74.1920979">
     <ele>402.8</ele>
     <time>2023-11-27T20:16:54Z</time>
@@ -491,6 +597,86 @@
     <type>Repères d'urgence</type>
     <extensions>
       <osmand:address>Proche Rue de la Mirabelle, Sainte-Agathe-des-Monts</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9461279" lon="-74.1769097">
+    <time>2023-12-05T02:50:41Z</time>
+    <name>U1</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9493167" lon="-74.1799517">
+    <ele>392</ele>
+    <time>2023-12-05T02:42:43Z</time>
+    <name>U2</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9497501" lon="-74.1804467">
+    <ele>392</ele>
+    <time>2023-12-05T02:44:43Z</time>
+    <name>U3</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9506896" lon="-74.1793103">
+    <time>2023-12-05T02:39:41Z</time>
+    <name>U4</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9512541" lon="-74.1799912">
+    <ele>395</ele>
+    <time>2023-12-05T02:35:46Z</time>
+    <name>U5</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9493993" lon="-74.1839024">
+    <time>2023-12-05T01:20:12Z</time>
+    <name>U7</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9501603" lon="-74.1822898">
+    <time>2023-12-05T01:17:10Z</time>
+    <name>U15</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Adéloise-Ouest, Sainte-Adèle</osmand:address>
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
