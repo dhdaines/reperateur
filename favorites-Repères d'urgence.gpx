@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="OsmAnd 4.4.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-Repères d'urgence</name>
-    <time>2023-12-05T03:20:39Z</time>
+    <time>2023-12-06T20:37:22Z</time>
   </metadata>
   <wpt lat="45.9497361" lon="-74.5193246">
     <ele>475.5</ele>
@@ -296,6 +296,41 @@
     <type>Repères d'urgence</type>
     <extensions>
       <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9161591" lon="-74.1746322">
+    <time>2023-12-06T19:06:07Z</time>
+    <name>CC1</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Mont Maribou</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.915288" lon="-74.1819022">
+    <ele>206.5</ele>
+    <time>2023-12-06T19:25:41Z</time>
+    <name>CC2</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Mont Maribou</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9192054" lon="-74.1849072">
+    <ele>311</ele>
+    <time>2023-12-06T19:39:59Z</time>
+    <name>CC3</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>CCC, Saint-Sauveur</osmand:address>
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
