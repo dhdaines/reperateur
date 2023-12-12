@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="OsmAnd 4.4.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-Repères d'urgence</name>
-    <time>2023-12-06T20:37:22Z</time>
+    <time>2023-12-12T17:56:17Z</time>
   </metadata>
   <wpt lat="45.9497361" lon="-74.5193246">
     <ele>475.5</ele>
@@ -336,6 +336,39 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="45.9320124" lon="-74.2119451">
+    <time>2023-12-08T20:13:10Z</time>
+    <name>CC4</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Lac-Bouchette, Morin Heights</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.959523" lon="-74.233673">
+    <ele>0</ele>
+    <time>2023-12-06T15:16:07Z</time>
+    <name>FL1</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:icon>special_flag_stroke</osmand:icon>
+      <osmand:background>circle</osmand:background>
+    </extensions>
+  </wpt>
+  <wpt lat="45.957725" lon="-74.205345">
+    <ele>0</ele>
+    <time>2023-12-06T15:16:07Z</time>
+    <name>FL2</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:icon>special_flag_stroke</osmand:icon>
+      <osmand:background>circle</osmand:background>
+    </extensions>
+  </wpt>
   <wpt lat="45.9465803" lon="-74.5331984">
     <time>2023-12-01T21:40:40Z</time>
     <name>L1</name>
@@ -394,6 +427,18 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="45.9451337" lon="-74.2034554">
+    <ele>447.5</ele>
+    <time>2023-12-12T15:36:56Z</time>
+    <name>L7</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
   <wpt lat="45.9479089" lon="-74.2027065">
     <ele>456</ele>
     <time>2023-12-05T02:07:17Z</time>
@@ -428,6 +473,18 @@
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9472796" lon="-74.2015693">
+    <ele>453.5</ele>
+    <time>2023-12-06T15:16:07Z</time>
+    <name>L11</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:address>Proche Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_flag_stroke</osmand:icon>
+      <osmand:background>circle</osmand:background>
     </extensions>
   </wpt>
   <wpt lat="45.9434361" lon="-74.207699">
@@ -633,6 +690,18 @@
     <extensions>
       <osmand:address>Proche Rue de la Mirabelle, Sainte-Agathe-des-Monts</osmand:address>
       <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.069988" lon="-74.2527851">
+    <ele>495</ele>
+    <time>2023-12-07T22:30:33Z</time>
+    <name>S7</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Rue Labonne, Sainte-Agathe-des-Monts</osmand:address>
+      <osmand:icon>special_flag_stroke</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
     </extensions>
