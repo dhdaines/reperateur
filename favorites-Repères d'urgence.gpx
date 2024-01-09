@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd 4.4.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="OsmAnd 4.5.10" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-Repères d'urgence</name>
-    <time>2023-12-12T17:56:17Z</time>
+    <time>2024-01-09T15:04:28Z</time>
   </metadata>
   <wpt lat="45.9497361" lon="-74.5193246">
     <ele>475.5</ele>
@@ -555,6 +555,53 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="46.0168412" lon="-74.1387017">
+    <ele>368.8</ele>
+    <time>2023-12-15T18:04:54Z</time>
+    <name>ML6</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du lac Fortier, Val-Morin</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0204655" lon="-74.1394164">
+    <ele>365.2</ele>
+    <time>2023-12-15T17:51:03Z</time>
+    <name>P27</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du lac Fortier, Val-Morin</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0258645" lon="-74.1219474">
+    <ele>413</ele>
+    <time>2023-12-15T17:34:05Z</time>
+    <name>P29</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Impossible de déterminer l'adresse</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0168434" lon="-74.1387067">
+    <time>2023-12-15T18:05:07Z</time>
+    <name>P30</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du lac Fortier, Val-Morin</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
   <wpt lat="45.9972975" lon="-74.0980809">
     <ele>323.8</ele>
     <time>2023-11-21T19:41:00Z</time>
@@ -609,6 +656,42 @@
     <type>Repères d'urgence</type>
     <extensions>
       <osmand:address>Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.948365" lon="-74.1946427">
+    <ele>412.8</ele>
+    <time>2023-12-31T18:56:54Z</time>
+    <name>R7</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Place du Loup-Garou, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9496636" lon="-74.1941894">
+    <ele>412.8</ele>
+    <time>2023-12-31T19:09:00Z</time>
+    <name>R8</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Rue du Chinook, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9494359" lon="-74.1988951">
+    <ele>382.8</ele>
+    <time>2023-12-31T19:03:17Z</time>
+    <name>R10</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Impossible de déterminer l'adresse</osmand:address>
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
@@ -775,12 +858,48 @@
       <osmand:color>#eecc22</osmand:color>
     </extensions>
   </wpt>
+  <wpt lat="45.9472119" lon="-74.1818748">
+    <ele>386.2</ele>
+    <time>2023-12-31T19:30:08Z</time>
+    <name>U8</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9459266" lon="-74.1828315">
+    <ele>384.5</ele>
+    <time>2023-12-31T18:40:25Z</time>
+    <name>U13</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
   <wpt lat="45.9501603" lon="-74.1822898">
     <time>2023-12-05T01:17:10Z</time>
     <name>U15</name>
     <type>Repères d'urgence</type>
     <extensions>
       <osmand:address>Proche Adéloise-Ouest, Sainte-Adèle</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.9447562" lon="-74.1765096">
+    <ele>390</ele>
+    <time>2023-12-31T18:15:15Z</time>
+    <name>U30</name>
+    <type>Repères d'urgence</type>
+    <extensions>
+      <osmand:address>Proche Chemin du Paysan, Sainte-Adèle</osmand:address>
       <osmand:icon>special_star</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#eecc22</osmand:color>
